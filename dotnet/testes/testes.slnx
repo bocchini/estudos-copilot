@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Copilot.Testes.API/Copilot.Testes.API.csproj" />
+  <Project Path="TestProjectCopilot/TestProjectCopilot.csproj" />
+</Solution>
